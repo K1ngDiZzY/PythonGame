@@ -1,0 +1,7 @@
+pygame>=2.6.1
+pillow>=11.3.0
+numpy>=2.2.0
+pygame>=4.5.2
+pyinstaller>=6.16.0
+sounddevice>=0.5.2
+soundfile>=0.13.1
